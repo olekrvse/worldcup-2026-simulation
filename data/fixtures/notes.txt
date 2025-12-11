@@ -1,0 +1,11 @@
+### for now I'm assuming the following teams win their respective playoffs: Italy, Poland, Turkey, Denmark, Bolivia, Jamaica.
+
+
+
+# Playoff mapping (placeholders → candidate teams)
+# UEFA Playoff-Winner A = Bosnia and Herzegovina / Italy / Northern Ireland / Wales
+# UEFA Playoff-Winner B = Albania / Poland / Sweden / Ukraine
+# UEFA Playoff-Winner C = Kosovo / Romania / Slovakia / Turkey
+# UEFA Playoff-Winner D = Czechia / Denmark / North Macedonia / Republic of Ireland
+# Intercontinental Playoff-Winner A = Bolivia / Iraq / Suriname
+# Intercontinental Playoff-Winner B = Congo DR / Jamaica / New Caledonia

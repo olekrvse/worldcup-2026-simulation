@@ -1,0 +1,73 @@
+date,group,home_team,away_team,city,stadium,neutral
+2026-06-11,A,Mexico,South Africa,Mexico City,Mexico City Stadium,TRUE
+2026-06-11,A,South Korea,Denmark,Guadalajara,Estadio Guadalajara,TRUE
+2026-06-12,B,Canada,Italy,Toronto,Toronto Stadium,TRUE
+2026-06-12,D,United States,Paraguay,Los Angeles,Los Angeles Stadium,TRUE
+2026-06-13,C,Haiti,Scotland,Boston,Boston Stadium,TRUE
+2026-06-13,D,Australia,Turkey,Vancouver,BC Place Vancouver,TRUE
+2026-06-13,C,Brazil,Morocco,New York/New Jersey,New York New Jersey Stadium,TRUE
+2026-06-13,B,Qatar,Switzerland,San Francisco,San Francisco Bay Area Stadium,TRUE
+2026-06-14,E,Ivory Coast,Ecuador,Philadelphia,Philadelphia Stadium,TRUE
+2026-06-14,E,Germany,Curaçao,Houston,Houston Stadium,TRUE
+2026-06-14,F,Netherlands,Japan,Dallas,Dallas Stadium,TRUE
+2026-06-14,F,Poland,Tunisia,Monterrey,Estadio Monterrey,TRUE
+2026-06-15,H,Saudi Arabia,Uruguay,Miami,Miami Stadium,TRUE
+2026-06-15,H,Spain,Cape Verde,Atlanta,Atlanta Stadium,TRUE
+2026-06-15,G,Iran,New Zealand,Los Angeles,Los Angeles Stadium,TRUE
+2026-06-15,G,Belgium,Egypt,Seattle,Seattle Stadium,TRUE
+2026-06-16,I,France,Senegal,New York/New Jersey,New York New Jersey Stadium,TRUE
+2026-06-16,I,Bolivia,Norway,Boston,Boston Stadium,TRUE
+2026-06-16,J,Argentina,Algeria,Kansas City,Kansas City Stadium,TRUE
+2026-06-16,J,Austria,Jordan,San Francisco,San Francisco Bay Area Stadium,TRUE
+2026-06-17,L,Ghana,Panama,Toronto,Toronto Stadium,TRUE
+2026-06-17,L,England,Croatia,Dallas,Dallas Stadium,TRUE
+2026-06-17,K,Portugal,Jamaica,Houston,Houston Stadium,TRUE
+2026-06-17,K,Uzbekistan,Colombia,Mexico City,Mexico City Stadium,TRUE
+2026-06-18,A,Denmark,South Africa,Atlanta,Atlanta Stadium,TRUE
+2026-06-18,B,Switzerland,Italy,Los Angeles,Los Angeles Stadium,TRUE
+2026-06-18,B,Canada,Qatar,Vancouver,BC Place Vancouver,TRUE
+2026-06-18,A,Mexico,South Korea,Guadalajara,Estadio Guadalajara,TRUE
+2026-06-19,C,Brazil,Haiti,Philadelphia,Philadelphia Stadium,TRUE
+2026-06-19,C,Scotland,Morocco,Boston,Boston Stadium,TRUE
+2026-06-19,D,Turkey,Paraguay,San Francisco,San Francisco Bay Area Stadium,TRUE
+2026-06-19,D,United States,Australia,Seattle,Seattle Stadium,TRUE
+2026-06-20,E,Germany,Ivory Coast,Toronto,Toronto Stadium,TRUE
+2026-06-20,E,Ecuador,Curaçao,Kansas City,Kansas City Stadium,TRUE
+2026-06-20,F,Netherlands,Poland,Houston,Houston Stadium,TRUE
+2026-06-20,F,Tunisia,Japan,Monterrey,Estadio Monterrey,TRUE
+2026-06-21,H,Uruguay,Cape Verde,Miami,Miami Stadium,TRUE
+2026-06-21,H,Spain,Saudi Arabia,Atlanta,Atlanta Stadium,TRUE
+2026-06-21,G,Belgium,Iran,Los Angeles,Los Angeles Stadium,TRUE
+2026-06-21,G,New Zealand,Egypt,Vancouver,BC Place Vancouver,TRUE
+2026-06-22,I,Norway,Senegal,New York/New Jersey,New York New Jersey Stadium,TRUE
+2026-06-22,I,France,Bolivia,Philadelphia,Philadelphia Stadium,TRUE
+2026-06-22,J,Argentina,Austria,Dallas,Dallas Stadium,TRUE
+2026-06-22,J,Jordan,Algeria,San Francisco,San Francisco Bay Area Stadium,TRUE
+2026-06-23,L,England,Ghana,Boston,Boston Stadium,TRUE
+2026-06-23,L,Panama,Croatia,Toronto,Toronto Stadium,TRUE
+2026-06-23,K,Portugal,Uzbekistan,Houston,Houston Stadium,TRUE
+2026-06-23,K,Colombia,Jamaica,Guadalajara,Estadio Guadalajara,TRUE
+2026-06-24,C,Scotland,Brazil,Miami,Miami Stadium,TRUE
+2026-06-24,C,Morocco,Haiti,Atlanta,Atlanta Stadium,TRUE
+2026-06-24,B,Switzerland,Canada,Vancouver,BC Place Vancouver,TRUE
+2026-06-24,B,Italy,Qatar,Seattle,Seattle Stadium,TRUE
+2026-06-24,A,Denmark,Mexico,Mexico City,Mexico City Stadium,TRUE
+2026-06-24,A,South Africa,South Korea,Monterrey,Estadio Monterrey,TRUE
+2026-06-25,E,Curaçao,Ivory Coast,Philadelphia,Philadelphia Stadium,TRUE
+2026-06-25,E,Ecuador,Germany,New York/New Jersey,New York New Jersey Stadium,TRUE
+2026-06-25,F,Japan,Poland,Dallas,Dallas Stadium,TRUE
+2026-06-25,F,Tunisia,Netherlands,Kansas City,Kansas City Stadium,TRUE
+2026-06-25,D,Turkey,United States,Los Angeles,Los Angeles Stadium,TRUE
+2026-06-25,D,Paraguay,Australia,San Francisco,San Francisco Bay Area Stadium,TRUE
+2026-06-26,I,Norway,France,Boston,Boston Stadium,TRUE
+2026-06-26,I,Senegal,Bolivia,Toronto,Toronto Stadium,TRUE
+2026-06-26,G,Egypt,Iran,Seattle,Seattle Stadium,TRUE
+2026-06-26,G,New Zealand,Belgium,Vancouver,BC Place Vancouver,TRUE
+2026-06-26,H,Cape Verde,Saudi Arabia,Houston,Houston Stadium,TRUE
+2026-06-26,H,Uruguay,Spain,Guadalajara,Estadio Guadalajara,TRUE
+2026-06-27,L,Panama,England,New York/New Jersey,New York New Jersey Stadium,TRUE
+2026-06-27,L,Croatia,Ghana,Philadelphia,Philadelphia Stadium,TRUE
+2026-06-27,J,Algeria,Austria,Kansas City,Kansas City Stadium,TRUE
+2026-06-27,J,Jordan,Argentina,Dallas,Dallas Stadium,TRUE
+2026-06-27,K,Colombia,Portugal,Miami,Miami Stadium,TRUE
+2026-06-27,K,Jamaica,Uzbekistan,Atlanta,Atlanta Stadium,TRUE
