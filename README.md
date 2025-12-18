@@ -35,35 +35,33 @@ The final output resembles the structure of professional forecasts (e.g., FiveTh
 
 ```
 coding_project/
-│
 ├── data/
-│   ├── raw/                      # Kaggle dataset files
-│   ├── fixtures/                 # WC 2026 custom fixtures
-│   └── processed/                # Cleaned data + model outputs
+│   ├── fixtures/                # WC 2026 custom group-stage fixtures
+│   └── processed/               # Model outputs & simulation results
 │
 ├── notebooks/
-│   └── wc2026_analysis.ipynb     # Visualisation & insights
-│
-├── src/
-│   ├── config.py                 # Path settings
-│   ├── data_loading.py           # Load raw data
-│   ├── preprocessing.py          # Clean & normalize data
-│   ├── poisson_model.py          # Fit Poisson regression
-│   ├── match_prediction.py       # Expected goals & P(win/draw/loss)
-│   ├── simulation.py             # Group-stage + knockout simulation
-│   ├── fixtures_wc2026.py        # Functions to load 2026 fixtures
-│   └── utils.py                  # Helpers
+│   └── wc2026_analysis.ipynb    # Visualisation & interpretation notebook
 │
 ├── scripts/
-│   ├── run_preprocessing.py      # Produce processed match dataset
-│   ├── train_poisson_model.py    # Estimate team parameters
-│   ├── evaluate_group_stage.py   # Match probabilities in groups
-│   └── simulate_full_tournament.py # Full Monte Carlo engine
+│   ├── run_preprocessing.py     # Build cleaned match dataset
+│   ├── fit_poisson_model.py     # Estimate attack/defence parameters
+│   ├── evaluate_group_stage.py  # Match probabilities for group stage
+│   ├── simulate_group_stage.py  # Group-stage Monte Carlo simulation
+│   ├── simulate_full_tournament.py # Full tournament simulation engine
+│   ├── test_match_prediction.py # Sanity checks for match predictions
+│   └── list_raw_team_names.py   # Debug helper for team-name alignment
 │
-├── reports/
-│   └── figures/                  # Plots generated in the notebook
+├── src/
+│   ├── config.py                # Centralised path configuration
+│   ├── data_loading.py          # Load raw & processed data
+│   ├── preprocessing.py         # Cleaning & normalization logic
+│   ├── poisson_model.py         # Poisson regression model
+│   ├── match_prediction.py      # Expected goals & W/D/L probabilities
+│   └── fixtures_wc2026.py       # WC 2026 fixture definitions
 │
-└── README.md                     # You are here
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
